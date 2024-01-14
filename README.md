@@ -1,9 +1,8 @@
 
 <div align="center">  
 
-# Hey there :wave:
-**SUPERCLUSTER**  
-**Satyam Gupta**
+# Hey there :wave: This is Satyam
+**Welcome to my Github Profile**
 
 </div>
 
