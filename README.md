@@ -30,8 +30,8 @@
 
 ## 🐦 Coding Stats:
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=supercluster)
-![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=supercluster)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/superclusters)
+![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=supercluster)
 
 
 ## 🌐 Socials:
