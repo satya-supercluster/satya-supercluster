@@ -1,4 +1,4 @@
-
+<div align="center">
 <h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
 
 <img src="./dino.gif" alt="dino">
@@ -37,3 +37,4 @@
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satya-supercluster) 
+</div>
