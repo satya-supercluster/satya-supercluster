@@ -29,8 +29,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satya-supercluster&theme=github-dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=satya-supercluster)](https://git.io/streak-stats)
-
 ## 🐦 Coding Stats:
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=supercluster)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/superclusters)
