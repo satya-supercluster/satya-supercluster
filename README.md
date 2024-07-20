@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
+<h1 align="center">Hi 👋, I'm Satyam</h1>
 
 
 ## 💫 About Me:
