@@ -1,8 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
 
-<img src="./dino.gif" alt="dino">
-
 
 ## 💫 About Me:
  🔭 I’m a Full stack MERN Developer.<br/>
