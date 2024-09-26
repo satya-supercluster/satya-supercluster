@@ -1,4 +1,4 @@
-<div align="left" style="background-color: black;">
+<div align="left" background-color="black">
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 
 
