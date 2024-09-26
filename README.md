@@ -13,8 +13,5 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=satya-supercluster&theme=github-dark" style="width: 100%; height: auto;"/>
       </a>
     </div>
-    <div style="flex: 1; padding: 10px; box-sizing: border-box; min-width: 300px;">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satya-supercluster&layout=compact&langs_count=10&&theme=react" style="width: 100%; height: auto;"/>
-    </div>
   </div>
 </div>
