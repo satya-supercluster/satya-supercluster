@@ -3,8 +3,6 @@
   
   <div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%; max-width: 1200px; margin-top: 20px;">
     <div style="flex: 1; padding: 10px; box-sizing: border-box; min-width: 300px;">
-      <h2 style="color: white;">📊 GitHub Stats:</h2>
-      <h3 style="color: white;">Last 30 Days Github Activity :</h3>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satya-supercluster&theme=github_dark" style="width: 100%; height: auto;"/>
     </div>
      <div style="flex: 1; padding: 10px; box-sizing: border-box; min-width: 300px;">
