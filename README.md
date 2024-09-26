@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 
 
@@ -18,21 +18,8 @@
 ### Last 30 Days Github Activity :
 ![](https://github-readme-activity-graph.vercel.app/graph?username=satya-supercluster&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satya-supercluster&theme=github_dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=satya-supercluster&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satya-supercluster&theme=github_dark&utcOffset=8)
-
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satya-supercluster&layout=compact&langs_count=10&&theme=react)
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satya-supercluster&theme=github-dark)](https://git.io/streak-stats)
-
-## 🐦 Coding Stats:
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=supercluster)
-![Leetcode Stats](https://leetcard.jacoblin.cool/superclusters)
-![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=supercluster)
-
-
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satya-supercluster) 
 </div>
