@@ -21,8 +21,10 @@
 - **Languages**: Python, JavaScript, Java, C++, C#  
 - **Frameworks**: ReactJS, Node.js, ExpressJS, Flutter, ASP.NET
 - **Tools**: Git, Visual Studio  
-- **Databases**: MySQL, MongoDB 
+- **Databases**: MySQL, MongoDB
+
 <br>
+
 ## 🔥 Streak Stats
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satya-supercluster&theme=algolia" alt="7oSkaaa" /></p>
 
