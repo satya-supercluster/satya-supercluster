@@ -21,5 +21,5 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satya-supercluster&theme=algolia" alt="7oSkaaa" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satya-supercluster&theme=algolia" alt="7oSkaaa" /></p>
 
