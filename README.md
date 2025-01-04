@@ -11,13 +11,13 @@
 </a>
 </div>
 
-## :sassy_man: 👨‍💻 About Me 
+## 👨‍💻 About Me 
 - 💻 **Problem Solver**: Passionate about leveraging software to tackle challenges.  
 - 📚 **Learner**: Pursuing **Computer Science** and **Software Engineering**.  
 - 🚀 **Opportunity Seeker**: Open to roles fostering growth and innovation. 
 - 🧠 **Driven by Curiosity**: Continuously expanding my knowledge in cutting-edge technologies and methodologies.  
 
-## :sassy_man: 🛠️ Technical Expertise  
+## 🛠️ Technical Expertise  
 - **Languages**: Python, JavaScript, Java, C++, C#  
 - **Frameworks**: ReactJS, Node.js, ExpressJS, Flutter, ASP.NET
 - **Tools**: Git, Visual Studio  
