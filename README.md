@@ -10,8 +10,6 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
-
-
 ## :sassy_man: 👨‍💻 About Me 
 - 💻 **Problem Solver**: Passionate about leveraging software to tackle challenges.  
 - 📚 **Learner**: Pursuing **Computer Science** and **Software Engineering**.  
@@ -23,10 +21,7 @@
 - **Frameworks**: ReactJS, Node.js, ExpressJS, Flutter  
 - **Tools**: Git, Visual Studio  
 - **Databases**: MySQL, MongoDB 
-
-
 <br>
-
 ## 🔥 Streak Stats
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satya-supercluster&theme=algolia" alt="7oSkaaa" /></p>
 
