@@ -20,8 +20,8 @@
 ## 🛠️ Technical Expertise  
 - **Languages**: Python, JavaScript, Java, C++, C#  
 - **Frameworks**: ReactJS, Node.js, ExpressJS, Flutter, ASP.NET
-- **Tools**: Git, Visual Studio  
-- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Visual Studio, Android Studio  
+- **Databases**: MySQL, MongoDB, PostgreSQL
 
 
 ## 🔥 Streak Stats
