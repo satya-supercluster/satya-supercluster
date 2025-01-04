@@ -12,11 +12,18 @@
 </div>
 
 
-## :sassy_man:  About me
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently studying: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for a new opportunity to learn.
-- :nerd_face: Always `learning new things`
+## :sassy_man: 👨‍💻 About Me 
+- 💻 **Problem Solver**: Passionate about leveraging software to tackle challenges.  
+- 📚 **Learner**: Pursuing **Computer Science** and **Software Engineering**.  
+- 🚀 **Opportunity Seeker**: Open to roles fostering growth and innovation. 
+- 🧠 **Driven by Curiosity**: Continuously expanding my knowledge in cutting-edge technologies and methodologies.  
+
+## :sassy_man: 🛠️ Technical Expertise  
+- **Languages**: Python, JavaScript, Java, C++, C#  
+- **Frameworks**: ReactJS, Node.js, ExpressJS, Flutter  
+- **Tools**: Git, Visual Studio  
+- **Databases**: MySQL, MongoDB 
+
 
 <br>
 
