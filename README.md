@@ -1,12 +1,25 @@
-<div style="display: flex; flex-direction: column; align-items: center; background-color: black;">
-  <h1 align="center" style="color: white;">Hi 👋, I'm Satyam</h1>
-  
-  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%; max-width: 1200px; margin-top: 20px;">
-    <div style="flex: 1; padding: 10px; box-sizing: border-box; min-width: 300px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satya-supercluster&theme=github_dark" style="width: 100%; height: auto;"/>
-    </div>
-     <div style="flex: 1; padding: 10px; box-sizing: border-box; width: 50%;">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satya-supercluster&layout=compact&langs_count=10&&theme=react" style="width: 100%; height: auto;"/>
-    </div>
-  </div>
+<h1 align="center">Hi , I'm Satyam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+<a href="https://linkedin.com/in/satya-supercluster" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<!-- <a href="https://twitter.com/ayush7780" target="_blank"> -->
+<!-- <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /> -->
+<!-- </a> -->
+<a href="https://instagram.com/satya.akea" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 </div>
+
+
+## :sassy_man:  About me
+- :technologist: I love using Software as a solution for every `Problem`
+- :student: I’m currently studying: `Computer Science` and `Software Engineering`.
+- :thinking: I’m currently open for a new opportunity to learn.
+- :nerd_face: Always `learning new things`
+
+<br>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satya-supercluster&theme=algolia" alt="7oSkaaa" /></p>
+
