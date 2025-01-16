@@ -31,7 +31,6 @@
 | ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=satya-supercluster&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81) | ![Produtividade_media](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satya-supercluster&theme=chartreuse_dark&utcOffset=-3) |
 
 
->![Visitor Count](https://profile-counter.glitch.me/{satya-supercluster}/count.svg)
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=satya-supercluster&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact&count_private=true&include_all_pull-requests=true&include_all_commits=true&show=reviews,discussions_started,prs_merged_percentage,discussions_answered,prs_merged&bg_color=90,000000,005000,000000&PAT_1=Jammes_Scoott)
