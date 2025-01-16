@@ -26,4 +26,6 @@
 
 ## 🔥 Streak Stats
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satya-supercluster&theme=algolia" alt="7oSkaaa" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=satya-supercluster&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact&count_private=true&include_all_pull-requests=true&include_all_commits=true&show=reviews,discussions_started,prs_merged_percentage,discussions_answered,prs_merged&bg_color=90,000000,005000,000000&PAT_1=Jammes_Scoott)
+<!--,-->
 
