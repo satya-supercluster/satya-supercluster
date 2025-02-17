@@ -11,12 +11,6 @@
 </a>
 </div>
 
-## 👨‍💻 About Me 
-- 💻 **Problem Solver**: Passionate about leveraging software to tackle challenges.  
-- 📚 **Learner**: Pursuing **Computer Science** and **Software Engineering**.  
-- 🚀 **Opportunity Seeker**: Open to roles fostering growth and innovation. 
-- 🧠 **Driven by Curiosity**: Continuously expanding my knowledge in cutting-edge technologies and methodologies.  
-
 ## 🛠️ Technical Expertise  
 - **Languages**: Python, JavaScript, Java, C++, C#  
 - **Frameworks**: ReactJS, Node.js, ExpressJS, Flutter, ASP.NET
@@ -26,13 +20,9 @@
 
 ## Contribution stats
 
-| Average productivity | Contributions |
+| Stats | Contributions |
 | --- | --- |
-| ![Produtividade_media](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satya-supercluster&theme=chartreuse_dark&utcOffset=5.5) | ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=satya-supercluster&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81) |
-
-| Stats | Programming Languages |
-| --- | --- |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=satya-supercluster&theme=github_dark) | ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satya-supercluster&layout=compact&langs_count=10&&theme=react) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=satya-supercluster&theme=github_dark) | ![Github contribuinte](https://github-readme-streak-stats.herokuapp.com/?user=satya-supercluster&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact&PAT_1=thiagosousa81) |
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=satya-supercluster&show_icons=true&locale=en&theme=chartreuse-dark&layout=compact&count_private=true&include_all_pull-requests=true&include_all_commits=true&show=reviews,discussions_started,prs_merged_percentage,discussions_answered,prs_merged&bg_color=90,000000,005000,000000&PAT_1=Jammes_Scoott)
