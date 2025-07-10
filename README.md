@@ -12,10 +12,10 @@
 </div>
 
 ## 🛠️ Technical Expertise  
-- **Languages**: Python, JavaScript, Java, C++, C#  
-- **Frameworks**: ReactJS, Node.js, ExpressJS, Flutter, ASP.NET
-- **Tools**: Git, Visual Studio, Android Studio  
-- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Languages**: Python, JavaScript, Java, C++ 
+- **Frameworks**: ReactJS, Node.js, ExpressJS, Flutter
+- **Tools**: Git, Visual Studio, Android Studio, Power Automate, Power BI
+- **Databases**: MySQL, MongoDB, Kusto
 
 
 ## Contribution stats
